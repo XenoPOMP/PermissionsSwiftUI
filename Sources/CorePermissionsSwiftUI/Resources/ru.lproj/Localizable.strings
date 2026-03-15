@@ -1,8 +1,8 @@
 /* MARK: Allow Button */
-"button_allow" = "ALLOW";
-"button_allowed" = "ALLOWED";
-"button_denied" = "DENIED";
-"button_next" = "NEXT";
+"button_allow" = "РАЗРЕШИТЬ";
+"button_allowed" = "РАЗРЕШЕНО";
+"button_denied" = "ЗАПРЕЩЕНО";
+"button_next" = "СЛЕДУЮЩЕЕ";
 
 /* MARK: UI labels */
 "permission_header" = "Need Permissions";
