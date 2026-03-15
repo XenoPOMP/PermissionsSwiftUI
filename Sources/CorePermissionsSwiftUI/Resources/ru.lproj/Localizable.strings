@@ -5,9 +5,9 @@
 "button_next" = "СЛЕДУЮЩЕЕ";
 
 /* MARK: UI labels */
-"permission_header" = "Need Permissions";
-"permission_primary_label" = "In order for you use certain features of this app, you need to give permissions. See description for each permission";
-"permission_secondary_label" = "Permission are necessary for all the features and functions to work properly. If not allowed, you have to enable permissions in settings";
+"permission_header" = "Необходимы разрешения";
+"permission_primary_label" = "Для использования определенных функций этого приложения вам необходимо предоставить соответствующие разрешения. Смотрите описание каждого разрешения";
+"permission_secondary_label" = "Для правильной работы всех функций необходимы соответствующие разрешения. Если они не разрешены, вам необходимо включить разрешения в настройках";
 
 /* MARK: Permissions (name & description) */
 "camera_title" = "Camera";
