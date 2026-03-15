@@ -10,10 +10,10 @@
 "permission_secondary_label" = "Для правильной работы всех функций необходимы соответствующие разрешения. Если они не разрешены, вам необходимо включить разрешения в настройках";
 
 /* MARK: Permissions (name & description) */
-"camera_title" = "Camera";
-"camera_description" = "Allow to use your camera";
+"camera_title" = "Камера";
+"camera_description" = "Разрешите использовать вашу камеру";
 
-"health_title" = "Health";
-"health_description" = "Allow to access your health information";
+"health_title" = "Здоровье";
+"health_description" = "Разрешите доступ к вашей медицинской информации";
 
 
